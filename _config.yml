@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: ture    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: d2d22745276b6a5cc525                            #生成的clientID
   clientSecret: 8202c2fe67d51e1ce34484535b5c4f6346dbc902    #生成的clientSecret
   repo: davidmachile.github.io    #仓库名称
