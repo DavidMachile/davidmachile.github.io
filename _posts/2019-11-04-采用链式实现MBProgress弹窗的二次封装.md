@@ -1,23 +1,13 @@
-\---
-
+---
 layout:     post
-
 title:      采用链式实现MBProgress弹窗的二次封装
-
 subtitle:   技术成长之路
-
 date:       2019-11-04
-
 author:    DM
-
 header-img: img/post-bg-cook.jpg
-
 catalog: true
-
-tags:
-\- iOS 链式 MBProgress
-
-\---
+tags: iOS 链式 MBProgress
+---
 
 ## 
 
