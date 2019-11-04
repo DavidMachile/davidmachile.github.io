@@ -9,8 +9,6 @@ catalog: true
 tags: iOS 链式 MBProgress
 ---
 
-## 
-
 **简述**
 
 ​		在开发阶段，我们时常需要给用户展示提示语。因近期项目需要整改，趁此机会，做了基于MBProgress弹窗的二次封装。此次封装同时采用链式结构来重新修改了MBProgress的调用方式。
