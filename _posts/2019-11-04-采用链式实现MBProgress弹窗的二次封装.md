@@ -2,7 +2,7 @@
 
 layout:     post
 
-title:        采用链式实现MBProgress弹窗的二次封装
+title:      采用链式实现MBProgress弹窗的二次封装
 
 subtitle:   技术成长之路
 
@@ -15,8 +15,7 @@ header-img: img/post-bg-cook.jpg
 catalog: true
 
 tags:
-
-\- iOS 链式  MBProgress 弹窗 封装
+\- iOS 链式 MBProgress
 
 \---
 
