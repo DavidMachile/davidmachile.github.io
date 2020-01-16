@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:        CDN: trunk Repo update failed  
+title:       ios(CDN: trunk Repo update failed)
 subtitle:   ios 技术成长之路
 date:        2020-01-16
 author:    DM
