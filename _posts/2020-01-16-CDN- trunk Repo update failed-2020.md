@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:       ios(CDN: trunk Repo update failed)
-subtitle:   ios 技术成长之路
+title:       pod出现CDN错误
+subtitle:   CDN: trunk Repo update failed
 date:        2020-01-16
 author:    DM
 header-img: img/post-bg-debug.png
