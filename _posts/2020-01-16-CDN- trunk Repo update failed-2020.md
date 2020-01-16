@@ -10,7 +10,7 @@ tags: iOS
 ---
 
 
-最近在新项目添加cocopods 时 ，pod update时出现了CDN: trunk Repo update failed 错误。
+最近在新项目添加cocopods 时 ，pod update时出现了CDN: trunk Repo update failed  错误。
 
 ![](http://q3gnsl2e8.bkt.clouddn.com/picGO/20200116111503.png)
 
