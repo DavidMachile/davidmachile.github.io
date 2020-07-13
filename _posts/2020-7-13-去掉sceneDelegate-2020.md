@@ -14,14 +14,15 @@ Xcode11之后新创建的工程会多出两个文件SceneDelegate。那么我们
 一、将这两个文件删除。
 会报错
 ```
-There is no scene delegate set. A scene delegate class must be specified to use a main storyboard file.```
+There is no scene delegate set. A scene delegate class must be specified to use a main storyboard file.
+```
+
 二、将Info.plist -> Open As -> Source Code将划框的部分删除。
 
 三、将AppDelegate.m中的UISceneSession lifecycle注释掉或者删掉。
 
 ```
 #pragma mark - UISceneSession lifecycle
-
 - (UISceneConfiguration *)application:(UIApplication *)application configurationForConnectingSceneSession:(UISceneSession *)connectingSceneSession options:(UISceneConnectionOptions *)options {
     // Called when a new scene session is being created.
     // Use this method to select a configuration to create the new scene with.
@@ -34,6 +35,7 @@ There is no scene delegate set. A scene delegate class must be specified to use 
     // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
 }
 ```
+
 四、在didFinishLaunchingWithOptions中加入UIWindow。
 
 ```
