@@ -9,11 +9,8 @@ catalog: true
 tags: iOS   
 ---
 
-
-## UIAlertController 修改标题 和按钮颜色
-
-```
-	UIAlertController *actionSheet = [UIAlertController alertControllerWithTitle:@"" message:@"您确定要取消支付吗？" preferredStyle:UIAlertControllerStyleAlert];
+  ```
+  UIAlertController *actionSheet = [UIAlertController alertControllerWithTitle:@"" message:@"您确定要取消支付吗？" preferredStyle:UIAlertControllerStyleAlert];
     UIAlertAction *action1 = [UIAlertAction actionWithTitle:@"取消" style:UIAlertActionStyleCancel handler:nil];
     UIAlertAction *action2 = [UIAlertAction actionWithTitle:@"确定" style:UIAlertActionStyleDefault handler:^(UIAlertAction * _Nonnull action)
     {
