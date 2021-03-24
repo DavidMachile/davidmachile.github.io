@@ -91,3 +91,7 @@ gcd完全不受runloop影响，也就是说不会收到手势和UI刷新影响�
     dispatch_resume(self.timer);
     
 ```
+
+
+
+
