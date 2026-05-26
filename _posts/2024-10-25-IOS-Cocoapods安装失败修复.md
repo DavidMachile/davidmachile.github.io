@@ -40,7 +40,7 @@ install xcode command line tools again (\$ xcode-select --install).
 然后修改hosts  如下
 
 
-![](./img/20241025-01.png)
+![](/img/20241025-01.png)
 
 然后再重新运行
 ```
@@ -81,14 +81,14 @@ rvm -v
 rvm list known
 ```
 
-![](./img/20241025-02.png)
+![](/img/20241025-02.png)
 
 选择一个版本安装  我这里选的是最新的3.0版本
 ```
 rvm install 3.0.0
 ```
 
-![](./img/20241025-03.png)
+![](/img/20241025-03.png)
 
 rvm 设置默认版本
 ```
@@ -105,7 +105,7 @@ sudo gem update --system
 ```
 gem sources -l
 ```
-![](./img/20241025-04.png)
+![](/img/20241025-04.png)
 
 ### 步骤五(安装cocoapods)
 

@@ -55,13 +55,13 @@ load File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')
 
 运行成功会在 iOS 工程的 pod 目录下有如图目录：
 
-![](./img/20241025-01.png)
+![](/img/20241025-01.png)
 
 > 3.第三步：xcode 配置 flutter
 
 在 xcode 的 general 里配置 flutter.xcframework
 
-![](./img/20241025-02.png)
+![](/img/20241025-02.png)
 
 > 4.AppDelegate 配置
 
